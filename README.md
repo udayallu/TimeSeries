@@ -41,7 +41,7 @@ Eg: Flights cancelled due to Fog
 ```
 acf(diff(log(AirPassengers))) # Determines the value of the q
 pacf(diff(log(AirPassengers))) # Determines the value of the p
- the p and q value are by default 1, they change on how many times you to differanation 
+d value are by default 1, they change on how many times you to differanation 
 
 ```
 
